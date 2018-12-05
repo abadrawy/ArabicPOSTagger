@@ -29,7 +29,7 @@ The Arabic POS tagger is implemented in Python, using different python libraries
 
 A review of state of the art English POS taggers.
 
-![alt text](https://github.com/abadrawy/ArabicPOSTagger/blob/master/graphs%26Images/EnglihsPOS.png)
+![alt text](https://github.com/abadrawy/ArabicPOSTagger/blob/master/graphs%26Images/EnglishPOS.png)
 
 
 # Arabic POS
