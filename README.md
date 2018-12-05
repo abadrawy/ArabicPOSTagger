@@ -77,13 +77,13 @@ A review of state of the art Arabic POS taggers.
 The process of Feature Extraction consists of first, constructing the features that are informative and distinctive.
 Constructed features are:
 
-* The Word itself, it’s Length, whether it’s first or last in the sentences.
+* The Word itself, its Length, whether its first or last in the sentences.
 
 * The first n and last character of the word with n ranging from 1 to 3.
 
-* Previous word and it’s tag.
+* Previous word and its tag.
 
-* The word Previous to the previous word and it’s tag.
+* The word Previous to the previous word and its tag.
 
 * The Next word.
 
@@ -106,9 +106,9 @@ Parameter tuning, is the task of finding the best parameters for a machine learn
 
 ## Training
 
-After choosing ML algorithm and tuning it is parameter, we pass 75% of input data to  train it.
+After choosing ML algorithm and tuning its parameter, we pass 75% of input data to  train it.
 This process is repeated for different machine learning algorithms such as Naïve Bayes ,SVM and Neural Networks.
-After training the classifier a  model is generated, which is later tested.
+After training the classifier a model is generated, which is later tested.
 
 ## Experimental Results:
 
